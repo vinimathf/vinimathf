@@ -1,5 +1,6 @@
 ## Bem-vindo ao meu perfil
 
+![Gif Programador](https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif)
 
 - 👋 Hi, I’m @vinimathf
 - 👀 I’m interested in ...
