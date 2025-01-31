@@ -1,4 +1,6 @@
-<center><h2> Bem-vindo ao meu perfil! </h2><center>
+Bem-vindo ao meu perfil!
+<center> Bem-vindo ao meu perfil! </center>
+
 
 ![Gif Programador](https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif)
 
