@@ -1,6 +1,6 @@
-Bem-vindo ao meu perfil!
-<center> Bem-vindo ao meu perfil! </center>
+## Bem-vindo ao meu perfil!
 
+-------------------------------
 
 ![Gif Programador](https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif)
 
@@ -13,4 +13,4 @@ Bem-vindo ao meu perfil!
 
 -------------------------------
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?vinimathf&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
