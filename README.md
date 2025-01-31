@@ -1,10 +1,16 @@
 <div align="center">
-## Bem-vindo ao meu perfil!
+
+# Bem-vindo ao meu perfil!
+
 </div>
 
 -------------------------------
 
-![Gif Programador](https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif)
+<div align="center">
+
+  <img src="https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif" width="300px">
+
+</div>
 
 -------------------------------
 
@@ -15,4 +21,8 @@
 
 -------------------------------
 
+<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+</div>
